@@ -1,6 +1,6 @@
-[Personnal page of loic landrieu](loiclandrieu.com)
+[Home page](loiclandrieu.com)
 
-[github profile](https://github.com/loicland)
+[Github profile](https://github.com/loicland)
 
-[scholar profile](https://scholar.google.fr/citations?user=B9VnFRcAAAAJ&hl=fr)
+[Scholar profile](https://scholar.google.fr/citations?user=B9VnFRcAAAAJ&hl=fr)
 
